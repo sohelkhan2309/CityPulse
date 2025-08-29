@@ -4,7 +4,7 @@
 
 ### 1. Clone project  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sohelkhan2309/CityPulse
 ```
 
 ### 2. (Optional) Create new project if not able to clone  
