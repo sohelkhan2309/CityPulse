@@ -2,12 +2,7 @@
 
 ##  Project Setup  
 
-### 1. Clone project  
-```bash
-git clone https://github.com/sohelkhan2309/CityPulse
-```
-
-### 2. (Optional) Create new project if not able to clone  
+### 1. Create new project 
 ```bash
 npx @react-native-community/cli init CityPulse
 ```
@@ -16,6 +11,7 @@ Make sure the **package name** is:
 ```
 com.citypulse
 ```
+### 2. Add src and App.tsx filer in the root folder
 
 ### 3. Open project in VS Code  
 ```bash
