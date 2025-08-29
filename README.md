@@ -63,15 +63,17 @@ npx react-native run-ios
 
 ## 📸 Screenshots  
 
-| Home | Login | Signup | Profile |
-|------|-------|--------|---------|
-| ![](Screenshot%20and%20video/1.JPG) | ![](Screenshot%20and%20video/2.JPG) | ![](Screenshot%20and%20video/3.JPG) | ![](Screenshot%20and%20video/4.JPG) |
+| Splash | Login | Signup |
+|--------|-------|--------|
+| ![](Screenshot%20and%20video/Splash.JPG) | ![](Screenshot%20and%20video/Login.JPG) | ![](Screenshot%20and%20video/Signup.JPG) |
 
-| Detail | Favorites | Map | Settings |
-|--------|-----------|-----|----------|
-| ![](Screenshot%20and%20video/5.JPG) | ![](Screenshot%20and%20video/6.JPG) | ![](Screenshot%20and%20video/7.JPG) | ![](Screenshot%20and%20video/8.JPG) |
+| Home | Home (Favorites) | Detail |
+|------|-----------------|--------|
+| ![](Screenshot%20and%20video/Home.JPG) | ![](Screenshot%20and%20video/Home_fav.JPG) | ![](Screenshot%20and%20video/Detail.JPG) |
 
-![](Screenshot%20and%20video/9.JPG)
+| Menu | Profile | Favourites |
+|------|---------|------------|
+| ![](Screenshot%20and%20video/Menu.JPG) | ![](Screenshot%20and%20video/Profile.JPG) | ![](Screenshot%20and%20video/Favourites.JPG) |
 
 ---
 
