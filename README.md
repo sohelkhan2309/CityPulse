@@ -57,4 +57,26 @@ npx react-native run-ios
 -  **User Authentication** (Signup, Login, Logout with Firebase)  
 -  **Local Storage** using AsyncStorage  
 -  **Biometric Authentication** (Fingerprint / FaceID login)  
--  **Maps Integration** in Detail Screen (requires Google Maps API key for Android)  
+-  **Maps Integration** in Detail Screen (requires Google Maps API key for Android)
+
+---
+
+## 📸 Screenshots  
+
+| Home | Login | Signup | Profile |
+|------|-------|--------|---------|
+| ![](Screenshot%20and%20video/1.JPG) | ![](Screenshot%20and%20video/2.JPG) | ![](Screenshot%20and%20video/3.JPG) | ![](Screenshot%20and%20video/4.JPG) |
+
+| Detail | Favorites | Map | Settings |
+|--------|-----------|-----|----------|
+| ![](Screenshot%20and%20video/5.JPG) | ![](Screenshot%20and%20video/6.JPG) | ![](Screenshot%20and%20video/7.JPG) | ![](Screenshot%20and%20video/8.JPG) |
+
+![](Screenshot%20and%20video/9.JPG)
+
+---
+
+## 🎥 Demo Video  
+
+### Watch the app in action:  
+
+[▶️ Demo Video](Screenshot%20and%20video/Demovideo.MP4) 
