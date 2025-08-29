@@ -11,7 +11,7 @@ Make sure the **package name** is:
 ```
 com.citypulse
 ```
-### 2. Add src and App.tsx filer in the root folder
+### 2. Add src and App.tsx files in the root folder
 
 ### 3. Open project in VS Code  
 ```bash
